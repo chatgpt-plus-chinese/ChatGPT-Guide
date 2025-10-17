@@ -3,6 +3,7 @@
 > 适用人群：因支付受限或续费受阻，想**快速、安全**完成 *chatgpt plus 代充* 的同学
 > 首推渠道：**[ai.muooy.com](https://ai.muooy.com)**（下文以此为例演示流程）
 
+
 ## TL;DR（先给结论）
 
 * 想要**又快又稳**：直接用 **[ai.muooy.com](https://ai.muooy.com)** 完成 **chatgpt 代充**，流程清晰、客服完善，适合多数用户。
