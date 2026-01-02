@@ -1,4 +1,4 @@
-# ChatGPT Plus 代充全指南（2025 最新）：新手 10 分钟上手 + 常见问题排查
+# ChatGPT Plus 代充全指南（2026 最新）：新手 10 分钟上手 + 常见问题排查
 
 > 适用人群：因支付受限或续费受阻，想**快速、安全**完成 *chatgpt plus 代充* 的同学
 > 首推渠道：**[ai.muooy.com](https://ai.muooy.com)**（下文以此为例演示流程）
@@ -9,7 +9,7 @@
 * 想**纯自己折腾**：可考虑美区 iOS 内购或虚拟卡，但对环境与细节要求更高，踩坑概率也更大。
 * 不建议：共享账号、来源不明的三方登录等高风险做法（隐私与稳定性都堪忧）。
 
-<img width="1536" height="1024" alt="ChatGPT Plus 代充全指南（2025 最新）：新手 10 分钟上手 + 常见问题排查" src="https://github.com/user-attachments/assets/a708d0dc-9f05-4df7-89d5-5e8626ccc9c7" />
+<img width="1536" height="1024" alt="ChatGPT Plus 代充全指南（2026 最新）：新手 10 分钟上手 + 常见问题排查" src="https://github.com/user-attachments/assets/a708d0dc-9f05-4df7-89d5-5e8626ccc9c7" />
 
 ## 目录
 
